@@ -35,7 +35,7 @@ I have a diverse skill set that includes expertise in Python, SQL, and data visu
 ## 🛠️ Tech Skills
 
 - **Data Analysis:** Python, Pandas, NumPy, SQL
-- **Data Visualization:** Tableau, Looker Studio, BigQuery
+- **Data Visualization:** Tableau, Looker Studio
 - **Machine Learning:** Supervised & Unsupervised Learning, NLP, Classification Models
 - **Web Scraping & APIs:** Web Scraping, Flask API
 - **Others:** Excel, Jupyter Notebooks
